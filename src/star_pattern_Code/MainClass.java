@@ -10,6 +10,7 @@ public static void main(String[] args) {
 	Diamond_Star_Pattern.pattern();
 	Hollow_Square_Star_Pattern.pattern();
 	Hollow_Pyramid_Star_Pattern.pattern();
+	HourglassPattern.pattern();
 	
 }
 }
