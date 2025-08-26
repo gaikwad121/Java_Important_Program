@@ -5,5 +5,11 @@ public class MainClass {
 		NumberTriangle.pattern();
 		InvertedNumberTriangle.pattern();
 		numberPyramid.pattern();
+		InvertedNumberPyramid.pattern();
+		DiamondNumPattern.pattern();
+		RowNumberRepetitionPattern.patter();
+		PalindromicNum.pattern();
+		RowNumberRepetitionPattern.patter();
+	
 	}
 }
