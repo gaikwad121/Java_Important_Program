@@ -1,0 +1,13 @@
+=== 01_Basics ===
+- Problem: Reverse a string in Java (ReverseString.java)
+- Problem: Check if a string is a palindrome (PalindromeCheck.java)
+- Problem: Count vowels in a string (CountVowels.java)
+
+=== 02_Intermediate ===
+- Problem: Check if two strings are anagrams (AnagramCheck.java)
+- Problem: Find the first non-repeating character in a string (FirstNonRepeatingChar.java)
+
+=== 03_Advanced ===
+- Problem: Longest substring without repeating characters (LongestSubstringWithoutRepeating.java)
+- Problem: Find the longest palindromic substring (LongestPalindromicSubstring.java)
+
